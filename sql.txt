@@ -1,3 +1,5 @@
+Sql Updates
+
 CREATE DATABASE `shopping_cart`;
 DROP TABLE IF EXISTS `product`;
 CREATE TABLE `shopping_cart`.`product`(
